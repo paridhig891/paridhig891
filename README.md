@@ -9,7 +9,7 @@ Author - Paridhi
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2F81F7&background=FFFFFF00&width=550&lines=Backend+Developer+%7C+Java+Enthusiast;Building+Clean+and+Scalable+Web+Apps;Java+%7C+JSP+%7C+Servlets)](https://git.io/typing-svg)
 
 - 🔭 I'm passionate about writing clean, modular backend code  
-- 🌱 Continuously learning and improving in Java, JSP, Servlets, and database design  
+- 🌱 Continuously learning and improving in Java, SpringBoot, Hibernate, and database design  
 - 💬 Feel free to reach out to discuss Java development, software design, and best practices  
 - ⚡ Fun fact: I enjoy solving tricky bugs and turning ideas into reliable software  
 
@@ -19,10 +19,10 @@ Author - Paridhi
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js,bootstrap,git,github,idea,eclipse)](https://skillicons.dev)
 
-- Java, JSP & Servlets  
+- Java, SpringBoot, Hibernate 
 - SQL & MySQL databases  
 - HTML, CSS, JavaScript, Bootstrap  
-- Git, GitHub, IntelliJ IDEA, Eclipse  
+- Git, GitHub, IntelliJ IDEA, Eclipse, GCP  
 
 ---
 
@@ -46,7 +46,7 @@ Author - Paridhi
   <a href="https://www.linkedin.com/in/paridhi-gupta-968aa1293" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  <a href="mailto:paridhigupta891@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
