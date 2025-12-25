@@ -6,7 +6,7 @@ Author - Paridhi
 
 ## Hello, I'm Paridhi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2F81F7&background=FFFFFF00&width=550&lines=Backend+Developer+%7C+Java+Enthusiast;Building+Clean+and+Scalable+Web+Apps;Java+%7C+JSP+%7C+Servlets)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2F81F7&background=FFFFFF00&width=550&lines=Backend+Developer+%7C+Java+Enthusiast;Building+Clean+and+Scalable+Web+Apps;Java+%7C+SpringBoot+%7C+Hibernate)](https://git.io/typing-svg)
 
 - 🔭 I'm passionate about writing clean, modular backend code  
 - 🌱 Continuously learning and improving in Java, SpringBoot, Hibernate, and database design  
