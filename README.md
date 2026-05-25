@@ -19,9 +19,8 @@ Author - Paridhi
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js,bootstrap,git,github,idea,eclipse)](https://skillicons.dev)
 
-- Java, SpringBoot, Hibernate 
-- SQL & MySQL databases  
-- HTML, CSS, JavaScript, Bootstrap  
+- Java, SpringBoot, Hibernate, Microservices, 
+- SQL & MySQL databases
 - Git, GitHub, IntelliJ IDEA, Eclipse, GCP  
 
 ---
